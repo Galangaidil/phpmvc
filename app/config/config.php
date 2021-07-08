@@ -1,7 +1,7 @@
 <?php
 
-define('BASEURL', 'http://localhost/phpmvc/public');
-define('HOME', 'http://localhost/phpmvc/public/home');
+define('BASEURL', 'http://localhost:8080/phpmvc/public');
+define('HOME', 'http://localhost:8080/phpmvc/public/home');
 
 
 // DB
